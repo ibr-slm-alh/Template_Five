@@ -253,7 +253,7 @@ ul{
 }
 @media(max-width: 767px){
 .content .cards .card-01{
-	width: 275px;
+	width: 80%;
 	
 }
 }
