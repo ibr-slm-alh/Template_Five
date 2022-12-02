@@ -564,6 +564,8 @@ ul{
 @media(max-width:  767px){
 	.products-content .product .card-01{
 		width: 233px;
+    		margin-left: -6px;
+		
 	}
 	.products-content .product .card-01 h1{
 		height: 10px;
